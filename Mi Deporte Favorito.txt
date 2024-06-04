@@ -1,0 +1,82 @@
+<HTML>
+<HEAD>
+<TITLE>HTML.index</TITLE>
+<HEAD>
+<BODY bgcolor="seafoam">
+
+<H1 align="center"><i>Mi Deporte Favorito</i></H1>
+
+<table style="text-align: left; width: 30%; margin-left: auto; margin-right: auto; background-color: green;"
+border="5" cellpading="5" cellspacing="5">
+<td style="vertical-align: middle; text-align: center">
+<a href="Mi Deporte Favorito.html"> Mi Deporte Favorito </a>
+<td style="vertical-align: middle; text-align: center">
+<a href="Mi Negocio.HTML"> Mi Negocio </a>
+<td style="vertical-align: middle; text-align: center">
+<a href="Mi Carrera Universitaria.html"> Mi Carrera Universitaria</a>
+<td style="vertical-align: middle; text-align: center">
+<a href="Mi comunidad.html"> Mi Comunidad </a>
+</td>
+</tr>
+<td style="vertical-align: middle;text-align: center">
+<div class="circular--landscape">
+  <img src="oriente02.jpg" />
+</div>
+</td>
+<td style="vertical-align: middle;text-align: center">
+<font size="14"<p>Cuando era chica mis padres me metieron a practicar<br>
+Natacion, hoy en dia ya no lo prectico,pero es un deporte que me gusta mucho<br></p>
+</td>
+<td style="vertical-align: middle;text-align: center">
+<div class="circular--landscape">
+  <img src= "1453407790.jpg"/>
+</div>
+<td style="vertical-align: middle;text-align: center">
+<font size="14"<p>El Manual que podran ver en la parte de arriba me ayudo<br
+a poder desenvolverme y aprender mas de la natacion, fue una gran ayuda contar<br>
+con ello<br></p>
+<td colspan="5" rowspan="5" style="vertical-align: middle; text-align: center; background-color: green">
+<img src="nd22.jpeg" />
+</td>
+</tr>
+<table style="text-align: left; width: 100%; margin-left: auto; margin-right: auto; background-color: green;"
+border="5" cellpading="5" cellspacing="5">
+<td style="vertical-align: middle;text-align: center">
+<font size="14"<p>Conforme fui mejorando llegue a que me escogieran como parte del equipo de nado sincronizdo<br></p>
+<td style="vertical-align: middle;text-align: center">
+<font size="14"Este deporte uno tiene que<br>
+tener muicha disiplina ya que para no desacostubrarse<br>
+y estar agil se debe de hacer por lo menos 4 dias a<br>
+la semana</br></p>
+</td>
+<td style="vertical-align: middle;text-align: center">
+<font size="14"<p>Para este deporte se necesitan<br>
+algunos materiales para llevar acabo los ejercicios</br></p>
+</td>
+<td style="vertical-align: middle;text-align: center">
+<font size="14"<p>Como lo es la tabla, el popote,<br>
+la bola de gel,etc.</br>
+</td>
+<table style="text-align: left; width: 30%; margin-left: auto; margin-right: auto; background-color: green;"
+border="5" cellpading="5" cellspacing="5">
+<td style="vertical-align: middle;text-align: center">
+<font size="14"<p>Este deporte no es muy complicado<br>
+para ello los profesores te sabren orientar</br></p>
+</td>
+<td style="vertical-align: middle;text-align: center">
+<font size="14"<p>Es un deporte muy infravalorado<br>
+por los medios y demas poblacion<br>
+pero es uno de los mas bonitos</br></p>
+</td>
+<td style="vertical-align: middle;text-align: center">
+<img src="fotos_equipamiento_0216366347.jpg" />
+</td>
+<td style="vertical-align: middle;text-align: center">
+<font size="14"<p>Es por eso que si alguien tiene la oportunidad<br>
+practicar este deporte no la desaproveche<br>
+aunque no lo cramos pero nos podria servir para<br>
+nuestra vida diaria</br></p>
+</td>
+<td style"vertical-align: middle; text-align: center">
+<img src="nnn.jpeg" />
+</td>

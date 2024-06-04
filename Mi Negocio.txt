@@ -1,0 +1,34 @@
+<DOCTYPE HTML>
+<html>
+<head>
+<title>HTML.index</title>
+</head>
+<body>
+<table style="text-align: left; width: 100%; margin-left: auto; margin-right: auto; font-size: 150%;">
+<td style="vertical-align: middle; text-align: center;">
+<img src= "hellocosmetics.jpg" width="220" heigth"293%">
+</td>
+<td style="vertical-align: middle; text-align: left;">
+<i>
+<p style= "font-size:300%;"> Hello Cosmetics</p>
+<h2 align="left">Hazlo Realidad</h2>
+</i>
+</dive>
+</td>
+<center>
+<img src= "polimeros-para-cosmeticos.jpg" WIDTH="100%" HEIGHT="100%"<br>
+</center>
+<table style="text-align: left; width: 100%; margin-left: auto; margin-right: auto; background-color: pinck;"
+border="5" cellpading="5" cellspacing="5">
+<td style="vertical-align: middle; text-align: center"background-color: pinck;">
+<a href="Mi Negocio.HTML"> Mi Negocio</a>
+<td style="vertical-align: middle; text-align: center"background-color: pinck;">
+<a href="Mi Deporte Favorito.html"> Mi Deporte Favorito </a>
+<td style="vertical-align: middle; text-align: center"background-color: pinck;" >
+<a href="Mi Carrera Universitaria.html"> Mi Carrera Universitaria </a>
+<td style="vertical-align: middle; text-align: center"background-color: pinck;">
+<a href="Mi comunidad.html"> Mi Comunidad </a>
+</td>
+</tr>
+</body>
+</html>
